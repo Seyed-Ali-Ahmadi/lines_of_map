@@ -8,7 +8,7 @@ Inspired by Dr. Dominic Royé's signature dataviz project [The Shapes of Rivers]
 
 ## 🌐 Live Demo
 
-🔗 **[Launch Interactive App](https://<your-username>.github.io/<your-repo-name>/)**  
+🔗 **[Launch Interactive App]([https://<your-username>.github.io/<your-repo-name>/](https://seyed-ali-ahmadi.github.io/lines_of_map/))**  
 *(Replace with your actual GitHub Pages URL after deployment)*
 
 ---
